@@ -12,4 +12,10 @@ You'll usually find me coding in **Python** or **C**, though I dabble in Ruby an
 I occasionally post articles on my [website](https://www.seandeaton.com) and on
 [Medium](https://whatthefuzz.medium.com/).
 
+## I've Helped to Secure a Few OSS Projects
+
+- [crasm](https://github.com/colinbourassa/crasm/pull/7])
+- [aspic](https://github.com/PhilipHazel/aspic/issues/1)
+- [pcre2](https://github.com/PCRE2Project/pcre2/issues/196)
+
 Type hinting is the best thing that happened to Python.
