@@ -15,7 +15,10 @@ I occasionally post articles on my [website](https://www.seandeaton.com) and on
 ## I've Helped to Secure a Few OSS Projects
 
 - [crasm](https://github.com/colinbourassa/crasm/pull/7])
+  - [Floating Point Exception](https://github.com/WhatTheFuzz/crasm-fuzz/tree/a020ad6ad99a72ca373f7dd1aab3a61a7c87fd66/bug-floating-point-exception)
+  - [NULL Pointer Dereference](https://github.com/WhatTheFuzz/crasm-fuzz/tree/a020ad6ad99a72ca373f7dd1aab3a61a7c87fd66/bug-null-pointer)
 - [aspic](https://github.com/PhilipHazel/aspic/issues/1)
 - [pcre2](https://github.com/PCRE2Project/pcre2/issues/196)
+- CVE-2023-24615
 
 Type hinting is the best thing that happened to Python.
