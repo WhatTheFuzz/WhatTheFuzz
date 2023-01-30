@@ -6,7 +6,7 @@
 
 I'm a vulnerability researcher by trade. I love to **fuzz** things and shake out bugs.
 Teaching, mentoring, and collaborating with others is my passion. 
-In my free time I love to read and play with my incredibly smart corgi.
+In my free time I love to read, lift, and play with my corgi.
 
 You'll usually find me coding in **Python** or **C**, though I dabble in Ruby and Swift.
 I occasionally post articles on my [website](https://www.seandeaton.com) and on
@@ -17,8 +17,11 @@ I occasionally post articles on my [website](https://www.seandeaton.com) and on
 - [crasm](https://github.com/colinbourassa/crasm/pull/7])
   - [Floating Point Exception](https://github.com/WhatTheFuzz/crasm-fuzz/tree/a020ad6ad99a72ca373f7dd1aab3a61a7c87fd66/bug-floating-point-exception)
   - [NULL Pointer Dereference](https://github.com/WhatTheFuzz/crasm-fuzz/tree/a020ad6ad99a72ca373f7dd1aab3a61a7c87fd66/bug-null-pointer)
-- [aspic](https://github.com/PhilipHazel/aspic/issues/1)
+- [aspic](https://github.com/PhilipHazel/aspic/)
+  - [Out-of-bounds-write](https://github.com/PhilipHazel/aspic/issues/1)
 - [pcre2](https://github.com/PCRE2Project/pcre2/issues/196)
-- CVE-2023-24615
+- [CVE-2023-24615](https://nvd.nist.gov/vuln/detail/CVE-2023-24615) TBD
 
-Type hinting is the best thing that happened to Python.
+## Spicy topics:
+
+- Type hinting is the best thing that happened to Python.
