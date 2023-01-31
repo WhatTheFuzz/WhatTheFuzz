@@ -19,7 +19,10 @@ I occasionally post articles on my [website](https://www.seandeaton.com) and on
   - [NULL Pointer Dereference](https://github.com/WhatTheFuzz/crasm-fuzz/tree/a020ad6ad99a72ca373f7dd1aab3a61a7c87fd66/bug-null-pointer)
 - [aspic](https://github.com/PhilipHazel/aspic/)
   - [Out-of-bounds-write](https://github.com/PhilipHazel/aspic/issues/1)
-- [pcre2](https://github.com/PCRE2Project/pcre2/issues/196)
+- [pcre2](https://github.com/PCRE2Project/pcre2/)
+  - [Out-of-bounds-write](https://github.com/PCRE2Project/pcre2/issues/196)
+- [mantohtml](https://github.com/michaelrsweet/mantohtml/)
+  - [Out-of-bounds-write](https://github.com/michaelrsweet/mantohtml/issues/1)
 - [CVE-2023-24615](https://nvd.nist.gov/vuln/detail/CVE-2023-24615) TBD
 
 ## Spicy topics:
